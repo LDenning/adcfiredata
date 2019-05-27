@@ -1,4 +1,4 @@
-# Created for LIS 598 - Advanced Data Curation at University of Washington iSchool
+# Created for LIS 598 - Advanced Data Curation at the University of Washington iSchool
 
 ### Team Members: Kamalla Bennett and Leslie Denning
 
